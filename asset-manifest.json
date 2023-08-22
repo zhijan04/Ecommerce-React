@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1-BenitezLeonardo/static/css/main.4a8b24df.css",
+    "main.js": "/PreEntrega1-BenitezLeonardo/static/js/main.61e22a0d.js",
+    "static/js/787.dcc73137.chunk.js": "/PreEntrega1-BenitezLeonardo/static/js/787.dcc73137.chunk.js",
+    "index.html": "/PreEntrega1-BenitezLeonardo/index.html",
+    "main.4a8b24df.css.map": "/PreEntrega1-BenitezLeonardo/static/css/main.4a8b24df.css.map",
+    "main.61e22a0d.js.map": "/PreEntrega1-BenitezLeonardo/static/js/main.61e22a0d.js.map",
+    "787.dcc73137.chunk.js.map": "/PreEntrega1-BenitezLeonardo/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a8b24df.css",
+    "static/js/main.61e22a0d.js"
+  ]
+}
