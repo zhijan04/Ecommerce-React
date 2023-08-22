@@ -55,3 +55,8 @@ background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(17,121,9,1) 25%, rgb
   font-size: 30px;
   margin-right: 5px;
 }
+
+.greeting{
+  width: 200px;
+  margin-inline: 40%;
+}
