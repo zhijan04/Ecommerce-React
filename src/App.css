@@ -1,38 +1,57 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#root{
+  background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(17,121,9,1) 25%, rgba(0,255,4,1) 100%);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.navbar {
   color: white;
+  padding: 10px;
 }
 
-.App-link {
-  color: #61dafb;
+.navbar-content {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.brand {
+  margin: 0;
+  font-size: 24px;
+}
+
+.button-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+
+}
+
+.nav-button {
+  background-color: #555;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.nav-button:hover {
+  background-color: #777;
+}
+
+
+.nav-button:hover {
+  background-color: #777;
+}
+.saludo{
+  align-items: center;
+}
+.image{
+  font-size: 30px;
+  margin-right: 5px;
 }
