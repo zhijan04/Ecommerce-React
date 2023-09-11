@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lisa Gris oscuro",
+        "descripcion": "Esta remera de algodón negra es una prenda esencial en cualquier guardarropa. Su diseño simple y versátil la convierte en una opción ideal para una amplia variedad de ocasiones. Está confeccionada con algodón de alta calidad que se siente suave y cómodo contra la piel, lo que la hace perfecta para uso diario. La remera presenta un ajuste regular que se adapta a la figura de manera cómoda y favorecedora, sin ser ni demasiado holgada ni demasiado ajustada. Su color negro sólido le da un aspecto atemporal y elegante que combina fácilmente con otras prendas de vestir.",
+        "categoria": "remeras",
+        "imagen": "http://http2.mlstatic.com/D_654677-MLA69801830003_062023-O.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Buzo Stussy",
+        "descripcion": "Este buzo te brinda un toque único con su diseño y color negro puro. Con una capucha ajustable y un bolsillo canguro en la parte delantera, es cómodo y práctico para los días frescos. Luce un estilo callejero con este buzo único.",
+        "categoria": "buzos",
+        "imagen": "http://http2.mlstatic.com/D_963954-MLA49241590184_032022-O.jpg",
+        "precio": 3500,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Pantalon cargo verde oscuro",
+        "descripcion": "Estos pantalones cargo en un atractivo tono verde oscuro son una elección ideal para aquellos que buscan comodidad y estilo funcional. Fabricados con una resistente tela de algodón, presentan un corte moderno que se adapta cómodamente a la figura sin ser demasiado ajustados ni holgados. Los múltiples bolsillos funcionales en los muslos y las piernas añaden un toque distintivo y práctico al diseño. Estos bolsillos te ofrecen espacio adicional para llevar tus pertenencias de manera organizada, desde llaves hasta tu teléfono móvil o herramientas pequeñas si los usas en un entorno de trabajo.",
+        "categoria": "pantalones",
+        "imagen": "http://http2.mlstatic.com/D_642848-MLA70968700034_082023-O.jpg",
+        "precio": 2300,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Remera verde militar",
+        "descripcion": "Esta remera de algodón de manga corta en un tono verde oscuro es una declaración de estilo única. Su diseño destaca con una estrella militar en el centro del pecho, añadiendo un toque de carácter y originalidad a la prenda. El color verde oscuro evoca un aura de sofisticación y misterio, mientras que la estrella militar en tonos contrastantes agrega un toque de intriga y un guiño a la moda inspirada en lo militar. La manga corta la hace perfecta para los días cálidos y activos.",
+        "categoria": "remeras",
+        "imagen": "http://http2.mlstatic.com/D_824763-MLA52575545451_112022-O.jpg",
+        "precio": 1900,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Buzo blanco Los Angeles",
+        "descripcion": "Este buzo blanco es una pieza de vestir con un estilo fresco y urbano que rinde homenaje a la vibrante ciudad de Los Angeles. Confeccionado en un suave y cómodo tejido, es perfecto para mantenerte abrigado y con estilo durante todo el año. El buzo presenta un corte relajado y cómodo, ideal para un uso casual. Tiene un cuello en 'v' y mangas largas que te mantendrán cómodo en días más frescos. Puedes combinarlo fácilmente con jeans, pantalones deportivos o incluso shorts, dependiendo de la ocasión.",
+        "categoria": "buzos",
+        "imagen": "http://http2.mlstatic.com/D_608634-MLA70684718040_072023-O.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Remera negra Hamilton F1",
+        "descripcion": "Esta remera negra es un auténtico tributo al legendario corredor de Fórmula 1, Lewis Hamilton. Presenta un diseño impresionante que muestra una imagen de Hamilton vistiendo su traje de carreras, con su icónico casco y su mirada decidida que refleja su determinación en la pista. Lo más distintivo de esta remera son los patrocinadores que la adornan. Los logotipos de las principales marcas que respaldan a Lewis Hamilton en su carrera están cuidadosamente impresos en la parte frontal, los hombros y la espalda de la remera. Desde las marcas de automóviles hasta las marcas de moda, estos patrocinadores son un testimonio de su éxito y renombre en el mundo de la Fórmula 1.",
+        "categoria": "remeras",
+        "imagen": "http://http2.mlstatic.com/D_759358-MLA70588481954_072023-O.jpg",
+        "precio": 2100,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Buzo negro NASA japones",
+        "descripcion": "Este buzo negro es una prenda que combina la exploración espacial con un toque de estilo internacional. En el pecho, presenta el icónico logotipo de la NASA, pero con un giro único: la palabra 'NASA' está escrita en japonés en caracteres elegantes y estilizados, lo que añade un elemento intrigante y exótico al diseño. La combinación del negro sólido y el logotipo en japonés le da un aspecto moderno y sofisticado. El buzo está confeccionado con materiales de alta calidad que ofrecen comodidad y calidez, lo que lo convierte en una prenda ideal para los días frescos o como una declaración de estilo en cualquier temporada.",
+        "categoria": "buzos",
+        "imagen": "https://http2.mlstatic.com/D_962856-MLA69383990242_052023-O.jpg",
+        "precio": 2500,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Jogger mostaza",
+        "descripcion": "Estos pantalones jogger de color mostaza son una expresión de moda contemporánea y comodidad sin esfuerzo. El tono mostaza agrega un toque de audacia y energía a tu atuendo, haciéndolos destacar entre la multitud. El corte de estos pantalones es moderno y relajado, con una cintura elástica y puños en los tobillos que proporcionan comodidad y un ajuste personalizado. Los bolsillos laterales añaden un toque funcional y práctico, perfecto para llevar tus pertenencias esenciales.",
+        "categoria": "pantalones",
+        "imagen": "http://http2.mlstatic.com/D_964388-MLA52237404050_112022-O.jpg",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Jean clasico azul",
+        "descripcion": "Estos pantalones de jean son perfectos para lucir un estilo moderno y elegante. Con un corte ajustado que resalta tus piernas y una tonalidad de lavado suave, son ideales para cualquier ocasión informal. Además, cuentan con detalles de costuras resaltadas que añaden un toque de sofisticación.",
+        "categoria": "pantalones",
+        "imagen": "http://http2.mlstatic.com/D_888977-MLA53831926702_022023-O.jpg",
+        "precio": 2000,
+        "stock": 10
+    }
+]
