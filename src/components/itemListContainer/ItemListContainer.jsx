@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import { PedirDatos } from '../helpers/pedirDatos';
 import ItemList from '../itemList/ItemList';
 import { useParams } from 'react-router-dom';
+import { collection, getDocs } from "firebase/firestore";
+import {db} from "../../firebase/config";
 
 const ItemListContainer = ({ greeting }) => {
     const [productos, setProductos] = useState([]);
@@ -10,10 +11,17 @@ const ItemListContainer = ({ greeting }) => {
     const [tituloCat,settituloCat] = useState([]);
 
     useEffect(() => {
-        PedirDatos()
-            .then((res) => {
-                setProductos(res);
-            });
+const productosRef = collection(db, "productos");
+
+getDocs(productosRef)
+.then((resp) => {
+    setProductos(
+        resp.docs.map((doc)=>{
+            return {...doc.data(), id: doc.id }
+        })
+    );
+})
+
     }, []);
 
     useEffect(() => {
